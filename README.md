@@ -1,7 +1,10 @@
-# demo_project
-This is a sample project!
+# project_repo
+
+This is the Graz Machine Learning course repository for the final project
+
+Made by
+
+* Bernhard Lutzer
+* Bianca Koeck
 
 
-
-More info on our course website:
-https://www.mlgraz.at/course
